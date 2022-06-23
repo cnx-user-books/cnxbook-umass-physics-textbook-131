@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Torque and Center of Mass Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64552</md:content-id>
+  <md:title>Torque and Center of Mass Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>16cec62e-c712-4d6e-827d-1c9fa2dabeaf</md:uuid>
+</metadata>
+
+<content>
+
+<para id="import-auto-idm246714016">In our study of physics so far, we have modeled everything as a dot for free-body diagrams. Where we applied our force to objects and how the object was shaped didn’t matter. And, in a lot of cases, this is fine. When you push a box across the floor, pushing the box from upper part of one side is roughly the same as pushing the box from the lower part, which is also roughly the same as just pushing from the center of the side. However, there are also a lot of cases where the place that you push matters. In fact, there’s one case that we encounter daily: doors.</para>
+    <para id="import-auto-idm1162733728">If you can, try getting up and opening or closing a door by pushing it near the hinge. You might feel a bit silly, but you’ll notice that you need considerably more force to move the door than if you pushed on it near end with the doorknob. Another exercise to try would be to try opening a door by pulling or pushing at an angle from the doorknob. You’ll find that it’s also harder to do that than just pushing or pulling straight onto the doorknob. In this chapter, we will be exploring this idea of where you push matters, which plays into two physics ideas: torque and center of mass.</para>
+  </content>
+</document>
