@@ -1,0 +1,35 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12236</md:content-id>
+    <md:title>UMass Physics 131 Unit 5</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>f3f24e5b-94c9-48f6-a393-dd7d2a17efd1</md:uuid>
+<md:slug>umass-physics-131-unit-5</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m64597"/>
+    <col:subcollection>
+      <md:title>Probability</md:title>
+      <col:content>
+        <col:module document="m64545"/>
+        <col:module document="m64663"/>
+        <col:module document="m64666"/>
+        <col:module document="m64607"/>
+        <col:module document="m64659"/>
+        <col:module document="m64660"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Entropy</md:title>
+      <col:content>
+        <col:module document="m64430"/>
+        <col:module document="m64895"/>
+        <col:module document="m64414"/>
+        <col:module document="m64428"/>
+        <col:module document="m64422"/>
+        <col:module document="m64425"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

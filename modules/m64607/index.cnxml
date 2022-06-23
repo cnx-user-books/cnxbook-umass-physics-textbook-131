@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Statistical Distributions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64607</md:content-id>
+  <md:title>Statistical Distributions</md:title>
+  <md:abstract><list><item>Interpret the probability of different events using statistical distributions</item></list></md:abstract>
+  <md:uuid>fc2655e2-bfb4-4474-a842-c4adae9ccd1f</md:uuid>
+</metadata>
+
+<content>
+
+<exercise id="inotei" type="check-understanding"><label/><title><media id="inoteii" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inoteip"><para id="inoteipp"><list id="quiz">
+			<title><emphasis>Your Quiz will Cover</emphasis></title>
+			<item>Interpreting the probability of different events using statistical distributions</item>
+		</list>
+		</para></problem></exercise>
+
+    <para id="import-auto-idm879590384">Let’s begin by looking at the distinction between a discrete and a continuous variable. Discrete variables can cannot take on any value. For example, coin tosses are either heads or tails; you can’t be half and half. Similarly, a dice will return one of the values one, two, three, four, five, or six. A dice will never return 2.342, for example. Continuous variables, on the other hand, can take on any value within a given range, and the limit of precision is not from an intrinsic limit within the system but from the measurement technique. Some examples of continuous variables include height. It is completely possible for a person to be 156.03423 centimeters tall, and we can measure a person’s height theoretically do any degree of precision that we would like. </para>
+    <para id="import-auto-idm800321296">Similarly, we often consider mass to be a continuous variable. Now, while strictly, mass is going to be discreet because you can’t have less than one electrons worth, the resolution is so small that we generally consider mass to be a continuous variable.</para>
+    <para id="import-auto-idm1032122176"> Let’s begin by thinking about, now, let’s move on to thinking about probability distributions beginning with discrete data. </para>
+	
+		  <media id="ctable" alt="County Table" display="block"><image mime-type="image/jpeg" src="../../media/countytable.jpg" width="500" print-width="5in"/></media>
+	
+    <para id="import-auto-idm354611472">Here, I have a table of the probability of a given person living in one of the five western Massachusetts counties, Berkshire, Franklin, Hampton, Hampshire, and Worcester. A probability distribution is a bar graph where the height of the bar is the probability of the occurrence. So, for these data, a probability distribution would look something like this. </para>
+	
+	<media id="cgraph" alt="County Graph" display="block"><image mime-type="image/jpeg" src="../../media/countygraph.jpg" width="500" print-width="5in"/></media>
+	
+    <para id="import-auto-idm800863840">We can see each county listed on the horizontal axis, and the height of the bar indicates the probability of the person living there. All possible outcomes are in fact listed, since all possible outcomes are listed, the heights of all bars together must equal 1, because the probability of a person who lives in western mass living in one of these five counties is of course one hundred percent. Let’s think about how to use these types of graphs. So, let’s begin with this question as an example. What is the probability of a person who lives in Western Massachusetts to live in either Hampshire or Berkshire counties? We can read off the graph that the probability of a person living in Hampshire County is 10%, 0.10 while the probability of a person living in Berkshire County is a little bit less 0.08. The “or” tells us that we should add, in line with a previous video. So, the probability of a person living in Hampshire or Berkshire is the sum of the probability of a person living in Hampshire and the probability of a person living in Berkshire. Add these two probabilities together, and you get a probability of 0.18 or 18%. This is something that you need to be able to do. </para>
+    <para id="import-auto-idm377789808">Now let’s think about probability distributions for continuous variables. Remember, continuous variables are those quantities that can take any value. An example of a continuous variable might be particle speeds at a given temperature. At a given temperature, particles have a huge variety of different speeds. The expression K= 3/2K<sub>b</sub>T tells you the average kinetic energy, or the average speed, v<sub>rms</sub>. So, let’s think about how to interpret probability distributions of continuous variables. The probability of any given number is 0. To understand this, think about what is the probability that a molecule bouncing around the room you’re sitting in has exactly 400 meters per second worth of velocity, 400 meters per second to an infinitely high level of precision. Zero, it will always deviate from 400 by a little bit, Because of this, probability is only meaningful if we speak about range of values. Thus, to get the probability, we look at the area under the curve between the values we’re interested in. </para>
+    <para id="import-auto-idm786387856">For example, what is the probability that the velocity of an oxygen molecule at 300k has a velocity between 800 and 1200 meters per second? </para>
+	
+	<media id="probcurve" alt="Probability graph" display="block"><image mime-type="image/jpeg" src="../../media/probcurve.jpg" width="500" print-width="5in"/></media>
+	
+    <para id="import-auto-idm1030501392">Well, we have the probability distribution. The area we are interested in is the area between 800 and 1200. So, this area here tells us the probability that a given oxygen molecule has a speed within this range. Since all possible speeds are represented, the area under the entire curve will be equal to 1. The word associated with this is we say that the curve is normalized. You need to be able to recognize that probability is an area. </para>
+	
+		<media id="probarea" alt="Probability graph" display="block"><image mime-type="image/jpeg" src="../../media/probarea.jpg" width="500" print-width="5in"/></media>
+	
+  </content>
+</document>

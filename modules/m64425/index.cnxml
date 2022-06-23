@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Why Entropy is Logarithmic</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64425</md:content-id>
+  <md:title>Why Entropy is Logarithmic</md:title>
+  <md:abstract/>
+  <md:uuid>f96b6e84-91c1-4f2f-af58-5d9aa720306e</md:uuid>
+</metadata>
+
+<content>
+
+	<note id="copyright">The following is based off of <newline/>umdberg / Why entropy is logarithmic. Available at:<link url="http://umdberg.pbworks.com/w/page/49691685/Why%20entropy%20is%20logarithmic."> http://umdberg.pbworks.com/w/page/49691685/Why%20entropy%20is%20logarithmic.</link> (Accessed: 20th July 2017)
+
+
+</note>
+
+    <para id="import-auto-idm203112544">We defined the entropy (<emphasis effect="italics">S</emphasis>) of a system as <emphasis effect="italics">k</emphasis><sub>B</sub> ln <emphasis effect="italics">W</emphasis>, where <emphasis effect="italics">W</emphasis> is the number of possible arrangements of the system.  But why?  Why not just say that entropy <emphasis effect="bold">is</emphasis> the number of arrangements?  Let's think through why it has to be defined this way.</para>
+    <para id="import-auto-idm893033696">We want to define entropy as an <emphasis effect="bold">extensive property</emphasis>, i.e. if I have two systems A and B, the total entropy should be the entropy of A plus the entropy of B.  This is like mass (2 kg + 2 kg = 4 kg), and not an <emphasis effect="bold">intensive property </emphasis>like temperature (if you combine two systems that are each at 300 K, you have a system at 300 K, <emphasis effect="bold">not</emphasis> at 600 K!).</para>
+    <para id="import-auto-idm1392856192">What happens to the number of possible arrangements when you combine two systems?  If system A can be in 3 different arrangements and system B can be in 5 different arrangements, then there are 3*5 = 15 possible combinations.  They multiply!  This '80s <link url="http://www.youtube.com/watch?v=w0i_ZFlGTVY">music video</link> explains why.</para>
+    <para id="import-auto-idm906888128">So we can't just define entropy as the number of possible arrangements, because we need the entropy to <emphasis effect="bold">add</emphasis>, not <emphasis effect="bold">multiply</emphasis>, when we combine two systems.</para>
+    <para id="import-auto-idm243949664">How do you turn multiplication into addition?  Just take the logarithm.  3 * 5 = 15, but ln 3 + ln 5 = ln 15.</para>
+    <para id="import-auto-idm219169360">So that's why entropy is defined as a constant times ln <emphasis effect="italics">W</emphasis>.  <emphasis effect="italics">W</emphasis> (the number of arrangements) is a dimensionless number, so ln <emphasis effect="italics">W</emphasis> is too.</para>
+    <para id="import-auto-idm1378530416">The constant out in front could be any constant, but we use Boltzmann's constant, 1.38 x 10<sup>-23</sup> J/K.  When we get to Gibbs free energy, we'll see that this constant has the right units, since we need entropy to be in units of energy/temperature.</para>
+    <para id="import-auto-idm1880638864">Ben Dreyfus 1/9/2012</para>
+  </content>
+</document>

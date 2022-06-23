@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64430</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>12c34177-54b3-49f8-ba4e-9c114a5700a8</md:uuid>
+</metadata>
+
+<content>
+
+
+<exercise id="inotei" type="check-understanding"><label/><title><media id="inoteii" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inoteip"><para id="inoteipp"><list id="quiz">
+			<title><emphasis>Your Quiz will Cover</emphasis></title>
+			
+			<item>Define entropy in terms of the number of microstates</item>
+			<item>State the fundamental principle of statistical mechanics; that all microstates are equally likely</item>
+			<item>Calculate the entropy for simple configurations</item>
+			<item>From the entropy, determine the number of microstates available</item>
+			
+			
+		</list>
+		
+		These topics apply to this entire chapter, so keep these in mind as you read on.
+		
+		</para></problem></exercise>
+
+
+    <para id="import-auto-idm807052608">Entropy is a weird and abstract concept. However, you might have encountered entropy before. The entropy we will discuss in this class is the same entropy in Gibbs free energy that you may have seen in one of your chemistry classes. You may have also heard of entropy before as being “disorder”. If this is the case, <emphasis effect="italics">please forget this idea</emphasis>, as a lot of confusion surrounding entropy involves this concept of disorder. The idea of entropy as disorder is an outdated one, and is sometimes simply not true.</para>
+    <para id="import-auto-idm1020128480">Consider a bowl of ice sitting in water. Eventually, the ice will melt, and we’ll be left with just a bowl of water. While a bowl of ice inside water may seem more “disorderly” than a uniform bowl of water, the water is a higher entropy state than the water with ice. We’ll discuss why this is in more detail in class. </para>
+    <para id="import-auto-idm899628448">Getting a handle on the concept of entropy will take some time. We are not expecting you to fully understand it through the readings, and we will work in class to help develop this concept. As always, what we do expect you to know will be listed at the top of each section, under the UMass instructor’s notes.</para>
+  </content>
+</document>
