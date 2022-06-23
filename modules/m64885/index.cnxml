@@ -1,0 +1,19 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Organizing the Different Types of Macroscopic Energy (Mechanical Energy)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64885</md:content-id>
+  <md:title>Organizing the Different Types of Macroscopic Energy (Mechanical Energy)</md:title>
+  <md:abstract/>
+  <md:uuid>d66f24f4-96c3-46c0-a84e-4ab38e0adc13</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-idm204963296">Now we have all of the different types of macroscopic energy that we will talk about in this course: kinetic energy <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline"><m:semantics><m:mrow><m:mrow><m:mi>K</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mi>m</m:mi><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:annotation encoding="StarMath 5.0">K= {1} over {2} m {v} ^ {2}</m:annotation></m:semantics></m:math>, gravitational potential energy <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline"><m:semantics><m:mrow><m:msub><m:mi>U</m:mi><m:mi>g</m:mi></m:msub><m:mo stretchy="false">=</m:mo><m:mi mathvariant="italic">mgy</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">{U} rsub {g} =mgy</m:annotation></m:semantics></m:math>, and the potential energy of a spring <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline"><m:semantics><m:mrow><m:mrow><m:msub><m:mi>U</m:mi><m:mi>s</m:mi></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mi>k</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:annotation encoding="StarMath 5.0">{U} rsub {s} = {1} over {2} k {x} ^ {2}</m:annotation></m:semantics></m:math>. These different types of energy can be organized as in the chart in the <emphasis effect="bold">figure</emphasis>. Collectively these types of energy are called <emphasis effect="italics">mechanical energy. </emphasis></para>
+    <figure id="import-auto-idm203686608"><media id="import-auto-idm484182448" alt="">
+        <image mime-type="image/png" src="../../media/coegraph.jpg" height="396" width="624"/>
+      </media>
+	  <caption>The different types of macroscopic (also called mechanical) energy</caption>
+    </figure>
+   
+    </content>
+</document>

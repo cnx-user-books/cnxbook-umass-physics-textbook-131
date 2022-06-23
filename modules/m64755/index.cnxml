@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Formal Statement of the Conservation of Energy as the First Law of Thermodynamics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64755</md:content-id>
+  <md:title>The Formal Statement of the Conservation of Energy as the First Law of Thermodynamics</md:title>
+  <md:abstract/>
+  <md:uuid>700e0a3b-c0ee-48ce-a8d2-387ddc144ddc</md:uuid>
+</metadata>
+
+<content>
+
+<exercise id="inotei" type="check-understanding"><label/><title><media id="inoteii" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inoteip"><para id="inoteipp">
+While this section is more formally mathematical than most, you should pay attention as this is probably the most important idea in all of science! 
+
+For your quiz, you will need to be able to use this idea in the abstract. If I give you two of ΔE, Q, or W you should be able to tell me the third.
+		</para></problem></exercise>
+
+    <para id="import-auto-idm295752288">In section 13.4, we stated that energy must be conserved: E<sub>i</sub>+E<sub>in</sub>-E<sub>out</sub>=E<sub>f</sub>. Moving things around we get E<sub>f</sub>-E<sub>i</sub>= E<sub>in</sub>- E<sub>out</sub>. Recognizing the term on the left as E, we can say E=E<sub>in</sub>-E<sub>out</sub>. If we redefine E<sub>in</sub> and E<sub>out </sub>as just different directions of transferred energy E<sub>transferred</sub>, then we have E=E<sub>transferred</sub> where E<sub>transferred</sub> is positive if energy comes into the system and negative if energy is leaving the system. Now, we know that there are two different ways to transfer energy into or out of a system: heat Q and work W. Thus, E<sub>transferred</sub> must be the sum of the energy transferred by heat and the energy transferred by work, E<sub>transferred</sub>=Q+W. The statement of the law of conservation of energy can therefore be written as </para>
+    <para id="import-auto-idm508083088">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>Δ</m:mi>
+            <m:mrow>
+              <m:mi>E</m:mi>
+              <m:mo stretchy="false">=</m:mo>
+              <m:mrow>
+                <m:mi>Q</m:mi>
+                <m:mo stretchy="false">+</m:mo>
+                <m:mi>W</m:mi>
+              </m:mrow>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">Δ E=Q+W</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="import-auto-idm440816512">Written in this form, the law of conservation of energy is called the <emphasis effect="italics">First Law of Thermodynamics</emphasis>, i.e. the First Law of Thermodynamics and the Law of Conservation of Energy are the same thing. </para>
+    <para id="import-auto-idm469564608">This statement is so fundamental to the idea of physics that it is worth spending a minute to really unpack what it says. Looking again at the First Law of Thermodynamics (with the delta expanded) we see </para>
+    <para id="import-auto-idm451404048">
+      <m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:msub>
+                <m:mi>E</m:mi>
+                <m:mi>f</m:mi>
+              </m:msub>
+              <m:mo stretchy="false">−</m:mo>
+              <m:msub>
+                <m:mi>E</m:mi>
+                <m:mi>i</m:mi>
+              </m:msub>
+            </m:mrow>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mrow>
+              <m:mi>Q</m:mi>
+              <m:mo stretchy="false">+</m:mo>
+              <m:mi>W</m:mi>
+            </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">{E} rsub {f} - {E} rsub {i} =Q+W</m:annotation>
+        </m:semantics>
+      </m:math>
+    </para>
+    <para id="import-auto-idm456134656">where both heat Q and work W are ways of <emphasis effect="italics">transferring </emphasis>energy into or out of the system. As a first example, say we have some system and we do work on that system without transferring any energy as heat. In this case, W&gt;0 as energy is coming in and Q=0. The result is that E<sub>f</sub>&gt;E<sub>i</sub>, which makes sense as we have added energy. Similarly, if we had a system that is losing heat to its environment while remaining stationary at constant volume then we know that Q&lt;0 because heat is flowing out and W=0 due to the fact that there is no “distance” for W=Fdcosθ. Therefore, Q+W&lt;0 and E<sub>f</sub>&lt;E<sub>i</sub> as expected given that energy is flowing out of the system. </para>
+  </content>
+</document>

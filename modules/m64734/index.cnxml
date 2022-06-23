@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Types of Energy and Scales of Energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64734</md:content-id>
+  <md:title>Types of Energy and Scales of Energy</md:title>
+  <md:abstract/>
+  <md:uuid>576b8d0a-6812-4f21-90e4-a3dd3b776ab9</md:uuid>
+</metadata>
+
+<content>
+
+<exercise id="inotei" type="check-understanding"><label/><title><media id="inoteii" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inoteip"><para id="inoteipp">This section provides the definitions of the terms kinetic and potential energy and defines the microscopic and macroscopic scales. Details and formulae will be provided in upcoming chapters.
+		</para></problem></exercise>
+
+    <para id="import-auto-idm870491168">Fundamentally, there are only two kinds of energy: kinetic energy and potential energy<emphasis effect="italics">. Kinetic energy (K) is the ability to do work associated with motion and potential energy (U) is the ability to do work arising from the relative positions of two or more objects. </emphasis>As an example, the car in motion in the left image of Figure 2 has the capability to do work due to its motion - the car has <emphasis effect="italics">kinetic energy</emphasis>. If the car were to crash, then a force would be exerted over a distance deforming the car (right image in Figure 2). The sheer fact that the car is moving means that it <emphasis effect="italics">can</emphasis> do work. Similarly, the larger block in Figure 3 could do work if the system were released. As the large block fell, it would lift the small block. The large block has <emphasis effect="italics">potential energy </emphasis>- an ability to do work due to its position relative to the earth. </para>
+	
+	<figure id="fig451">
+      <media id="med451" alt="cars1.jpg">
+        <image mime-type="image/jpg" src="../../media/cars1.jpg" width="400"/>
+      </media>
+       <caption>Figure B: A car traveling down the road (left) has an ability to do work due to its motion - it has kinetic energy. We see that ability to do work when the car crashes (right) - a force acts for a distance deforming the car.<footnote id="carfox">SteveBaker. English: A 2007 MINI Cooper’S Car Shown Immediately before - and Soon after - a Severe Car Crash. At: Lat/Long 31.03669,-97.470881, February 9, 2009. Own work. https://commons.wikimedia.org/wiki/File:BeforeAndAfterMINICooperS.png.</footnote></caption>
+    </figure>
+	
+	 <figure id="fig123123">
+      <media id="med123123" alt="A pulley">
+        <image mime-type="image/jpg" src="../../media/pulley1.jpg" width="400"/>
+      </media>
+       <caption>A large block connected to a small block over a pulley has an ability to do work due to its position relative to the earth; the large block has potential energy. We see that work when the large block is released exerting, via the rope and pulley, a force on the small block for a distance causing it to accelerate upwards. </caption>
+    </figure>
+
+	
+    <para id="import-auto-idm380501856">All of the many different types of energy that you have heard about in previous courses, thermal, chemical, electrical, etc., all ultimately boil down to these two different types. You may be wondering how chemical and thermal energy can be potential or kinetic. Typically when we think of kinetic energy, we think of the motion of people,  cars, and the like! The key is to think about the <emphasis effect="italics">scale </emphasis>of the energy: are we talking about energy at the macroscopic scale (people etc.) or the microscopic scale (atoms and molecules)? As we shall see, thermal energy is just kinetic energy on the microscopic scale and chemical energy is potential energy on the microscopic scale. The relationships between these types of energy can be seen in Figure D. One of our goals throughout these chapters on energy is to develop a coherent picture of energy that applies at both the macroscopic scale of people etc. and at the microscopic scale of atoms and molecules. Thus, while we may present the macroscopic and microscopic scales  in two separate chapters, keep in mind that we are talking about the same idea of energy throughout. At the end, we will look at how to transfer energy between these two different scales. </para>
+	
+	 <figure id="fig5235">
+      <media id="med5235" alt="energy relationships">
+        <image mime-type="image/jpg" src="../../media/energyrelate.jpg" width="400"/>
+      </media>
+       <caption>The relationships between different types of energy</caption>
+    </figure>
+
+	<exercise id="inote82846128" type="check-understanding"><label/><title><media id="inote82846128i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote82846128p"><para id="inote82846128pp">This chart provides a way to organize the different types of energy. We will flush out this chart in upcoming sections.</para></problem></exercise>
+	
+    </content>
+</document>

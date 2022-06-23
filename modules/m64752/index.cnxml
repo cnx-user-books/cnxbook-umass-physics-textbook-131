@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Conservation of Energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64752</md:content-id>
+  <md:title>Conservation of Energy</md:title>
+  <md:abstract/>
+  <md:uuid>2a8c96eb-0fc0-406c-88bd-1ef0e5f0d4c9</md:uuid>
+</metadata>
+
+<content>
+
+<exercise id="inotei" type="check-understanding"><label/><title><media id="inoteii" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inoteip"><para id="inoteipp"><list id="quiz">
+			<title><emphasis>Your Quiz will Cover</emphasis></title>
+			<item>Understanding that, in a closed system, energy is conserved</item>
+		</list>
+		</para></problem></exercise>
+
+    <para id="import-auto-idm343377872">You probably have heard from other courses that “energy is conserved.” This statement is true, for the Universe as a whole - the total amount of energy has not changed since the birth of the Universe 13.6Gyr ago. While this is a hugely important fact which gets deep into the heart of physics, it may not seem very useful. However, there is an, equally fundamental, and more useful fact: the amount of energy in any given system is conserved: the energy at the end of some process is what I had at the beginning plus any that came in minus any that went out, or in equation form: E<sub>i</sub>+E<sub>in</sub>-E<sub>out</sub>=E<sub>f</sub>. </para>
+	
+	 <figure id="fig2323">
+      <media id="med2323" alt="">
+        <image mime-type="image/jpg" src="../../media/systemenergy.jpg" width="500"/>
+      </media>
+       <caption>The conservation of energy in graphical form E<sub>i</sub>+E<sub>in</sub>-E<sub>out</sub>=E<sub>f</sub></caption>
+    </figure>
+
+	
+	
+    </content>
+</document>

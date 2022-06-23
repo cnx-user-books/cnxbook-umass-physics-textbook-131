@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64670</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>87e334b8-cba3-40f3-86b9-dcdacd948407</md:uuid>
+</metadata>
+
+<content>
+	
+<exercise id="inotei" type="check-understanding"><label/><title><media id="inoteii" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inoteip"><para id="inoteipp">
+We expect that all of the material in this chapter is review for you from other courses, and is included here for reference. 
+The topics with which you are least likely to be familiar are:<list id="quiztopics">
+<item>The expression of the ideal gas law in terms of molecules instead of moles and k<sub>B</sub> vs R in section 12.5</item>
+<item>The limitations of the ideal gas law in section 12.5</item>
+<item>The Einsteinian Solid in section 12.6</item>
+</list>
+Your quiz will cover:
+<list id="quiztopics2">
+<item>Converting between atoms, grams, and moles for any compound given a periodic table.</item>
+<item>The limitations of the ideal gas law</item>
+</list></para><para id="cite">This introduction is based from <newline/>umdberg / The micro to macro connection (2013). Available at: <link url="http://umdberg.pbworks.com/w/page/68405576/The%20micro%20to%20macro%20connection%20(2013)">http://umdberg.pbworks.com/w/page/68405576/The%20micro%20to%20macro%20connection%20(2013)</link>. (Accessed: 2nd August 2017)
+</para></problem></exercise>
+	
+    <para id="import-auto-idm252301136">Much of what we have done so far -- the Newtonian framework, describing the properties of solids and liquids, and the concepts of heat and temperature -- are <emphasis effect="italics">macroscopic</emphasis> concepts: they describe things we see, feel, and experience. They express the regularities and consistencies of the behavior of physical systems. Much of this was well known by the middle of the nineteenth century. But one of the most extraordinary and important pieces of knowledge that humanity has garnered since then is the idea of the <emphasis effect="italics">microscopic</emphasis>.  By this, physicists don't mean "what you can see in a microscope", but rather the fact that everything we regularly experience is made up of a small number of different kinds of atoms (91 in the natural world, a few more that have been created by humans). The essential point about this is that we believe that all properties of the macroscopic world are ultimately due to the properties and interactions of those 91 distinct elements. Although some phenomena require a description at a higher level (see the discussion of emergent phenomena), at some level (even if it's not convenient or useful for us to explicate), everything we see is a result of atomic properties.</para>
+    <para id="import-auto-idm1105646816">A major component of modern biology is working at the microscopic -- atomic and molecular -- level and learning what are the critical elements that underlie basic biological mechanisms. Much of the research and development that can be expected to transform both biology and medicine over the next few decades will depend on making sense of the micro to macro connection. In this class, we will develop a few of the basic tools needed for making this connection. One set of tools involves <emphasis effect="italics">statistical physics</emphasis>.  Since there is a huge amount of energy distributed in all objects at common temperatures, and since these energies tend to be <emphasis effect="italics">randomly distributed</emphasis> among the atoms and molecules of a substance, the science of figuring out the implications of randomness is critical for understanding many biological phenomena.</para>
+    <para id="import-auto-idm1093646080">We will begin our study of the implications of microscopic properties and randomness with two phenomena: <emphasis effect="italics">kinetic theory</emphasis> and <emphasis effect="italics">diffusion</emphasis>. Kinetic theory is about understanding thermal phenomena in molecular terms, and diffusion is about what happens when materials are not uniformly distributed. Analyzing both of these using the methods of statistical physics will give us insights into the mechanism of a large class of complex and important phenomena.</para>
+    <para id="import-auto-idm254718432">In this chapter, we will look at some important properties of matter at the molecular scale such as the idea of a mole which you may know from a previous course. We will then develop molecule-based pictures of gases and solids. We will use these models of matter to help us to develop a coherent picture of energy that spans from our everyday world to the world of molecules.</para>
+  </content>
+</document>
