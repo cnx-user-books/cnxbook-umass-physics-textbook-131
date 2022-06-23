@@ -1,0 +1,88 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Writing Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64055</md:content-id>
+  <md:title>Writing Numbers</md:title>
+  <md:abstract><list><item>Estimating the number of appropriate digits for any calculation.</item></list></md:abstract>
+  <md:uuid>a7592390-4f32-4117-a0ae-9a1516e4460f</md:uuid>
+</metadata>
+
+<content>
+
+<exercise id="inotei" type="check-understanding"><label/><title><media id="inoteii" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inoteip"><para id="inoteipp"><list id="quiz">
+			<title><emphasis>Your Quiz would Cover</emphasis></title>
+			<item>Estimating the number of appropriate digits for any calculation. One big thing is that we will use properties of data to predict/determine the number of decimal points that are appropriate.</item>
+		</list>
+		<list id="ttc">
+			<title><emphasis>Other Things to Consider as You Read:</emphasis></title>
+			<item>While we won't be using sig-fig rules, there are some guidelines on the appropriate amount of digits to include in a result.</item>
+		</list>
+		In general, three digits after the decimal point is what we will go with.
+		</para></problem></exercise>
+
+ <note id="copyright"><label/>The following section is based upon, with permission:<newline/> Denker, J. Uncertainty as Applied to Measurements and Calculations. Uncertainty as Applied to Measurments and Calculations (2011). Available at: <link url="http://www.av8n.com/physics/uncertainty.htm">http://www.av8n.com/physics/uncertainty.htm</link>. (Accessed: 26th August 2016)
+	</note>
+	  
+	  <section id="import-auto-idm798948752">
+      <title>How Many Digits To Include</title>
+      <para id="import-auto-idm1114535520">Here are some simple rules that apply whenever you are writing down a number:</para>
+      <para id="import-auto-idm787630480">1. Use many enough digits to avoid unintended loss of information.</para>
+      <para id="import-auto-idm1107937408">2. Use few enough digits to be reasonably convenient. </para>
+      <para id="import-auto-idm760645664"><emphasis effect="bold">Important note:</emphasis> The previous two sentences tell you everything you need to know for most purposes, including real-life situations as well as academic situations at every level from primary school up to and including introductory college level. </para>
+      <para id="import-auto-idm787500560"/>
+      <para id="import-auto-idm301034592">3. When using a calculator, it is good practice to leave intermediate results in the machine. This is simultaneously more accurate and more convenient than writing them down and then keying them in again. </para>
+      <para id="import-auto-idm1112752208">Seriously: The primary rule is to use plenty of digits. You hardly even need to think about it. Too many is vastly better than too few. To say the same thing the other way: If you ever have more digits than you need <emphasis effect="italics">and</emphasis> they are causing major inconvenience, then you can think about reducing the number of digits.</para>
+    </section>
+    <section id="import-auto-idm292002976">
+      <title>When to Write Down Uncertainty</title>
+      <para id="import-auto-idm1120616448">In many cases, when you write down a number, you need not <emphasis effect="italics">and should not</emphasis> associate it with any notion of uncertainty.</para>
+      <list id="import-auto-idm325758496" list-type="bulleted">
+        <item>One way this can happen is if you have a number with zero uncertainty. If you roll a pair of dice and observe five spots, the number of spots is 5. This is a raw data point, with no uncertainty whatsoever. So just write down the number. Similarly, the number of centimeters per inch is 2.54, by definition, with no uncertainty whatsoever. Again: just write down the number.</item>
+        <item>Another possibility is that there is a cooked data blob, which in principle must have “some” uncertainty, but the uncertainty is too small to be interesting. It is insignificant. It is unimportant. It is immaterial. There are plenty of situations a moderately rough approximation is sufficient. There are even some situations where an <emphasis effect="italics">extremely</emphasis> rough approximation is called for. </item>
+      </list>
+      <para id="import-auto-idm317047136">Along the same lines, here is a less-extreme example that arises in the introductory chemistry class. Suppose the assignment is to balance the equation for the combustion of gasoline, namely</para>
+	  
+	  <para id="equation"><emphasis effect="italics">a </emphasis>C<sub>8</sub>H<sub>18</sub>+<emphasis effect="italics">b </emphasis>O<sub>2</sub> → <emphasis effect="italics">x </emphasis>CO<sub>2</sub>+<emphasis effect="italics">y </emphasis>H<sub>2</sub>O</para>
+      
+      <para id="import-auto-idm1351257904">by finding numerical values for the coefficients <emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis>, <emphasis effect="italics">x</emphasis>, and <emphasis effect="italics">y</emphasis>. The conventional answer is (<emphasis effect="italics">a</emphasis>, <emphasis effect="italics">b</emphasis>, <emphasis effect="italics">x</emphasis>, <emphasis effect="italics">y</emphasis>) = (2, 25, 16, 18). The outcome of the real reaction must have “some” uncertainty, because there will generally be some non-idealities, including the presence of other molecules such as CO or C<sub>60</sub>, not to mention NO<sub>2</sub> or whatever. However, my point is that we don’t necessarily care about these non-idealities. We can perfectly well find the idealized solution to the idealized equation and postpone worrying about the non-idealities and uncertainties until much, much later.</para>
+      <para id="import-auto-idm1134254720">As another example, suppose you use a digital stopwatch to measure some event, and the reading is 1.234 seconds. We call this number the <emphasis effect="italics">indicated</emphasis> time, and we distinguish it from the <emphasis effect="italics">true</emphasis> time of the event. In principle, there is no chance that the indicated time will be exactly equal to the true time; true time is a <emphasis effect="italics">continuous variable</emphasis>, which means that it can take on an infinite amount of values, such as 1.234, 1.2341, 1.23406, 1.2360000009, and so on, whereas the indicated time is <emphasis effect="italics">quantized</emphasis>, which means that it can only take on certain values, such as, if you have a stopwatch with only three decimal places, you can have 1.234 and 1.235, but no values in between, such as 1.2347. However, in many cases you may decide that it is close enough, in which case you should just write down the indicated reading and not worry about the quantization error.</para>
+      <para id="import-auto-idm1108228288">Let us continue with the stopwatch example. Suppose we make two observations. The first reading is 1.234 seconds, and the second reading is just the same, namely 1.234 seconds. Meanwhile, however, you may believe that if you repeated the experiment many times, the resulting set of readings would have some amount of scatter, namely<m:math display="inline"><m:semantics><m:mi>±</m:mi><m:annotation encoding="StarMath 5.0">±</m:annotation></m:semantics></m:math>0.01 seconds. The two observations that we actually have don’t show any scatter at all, so your estimate of the uncertainty remains hypothetical and theoretical. Theoretical information is still information, and should be written down in the lab book, plain and simple. For example, you might write a sentence that says “Intuition suggests the timing data is reproducible<m:math display="inline"><m:semantics><m:mi>±</m:mi><m:annotation encoding="StarMath 5.0">±</m:annotation></m:semantics></m:math>0.01 seconds.” It would be even better to include some explanation of why you think so. The principle is simple: Write down what you know. Say what you mean, and mean what you say. The same principle applies to the indicated values. The recommend practice is to write down each indicated value, as-is, plain and simple.</para>
+      <para id="import-auto-idm1124284416">You are not trying write down the true values. You don’t know the true values (except insofar as the indicated values represent them, indirectly). You don’t need to know the true values, so don’t worry about it. The rule is: <emphasis effect="italics">Write down what you know.</emphasis> So write down the indicated value. Also: You are not obliged to attribute any uncertainty to the numbers you write down. Normal lab-book entries do not express an uncertainty using <emphasis effect="italics">A<m:math display="inline"><m:semantics><m:mi>±</m:mi><m:annotation encoding="StarMath 5.0">±</m:annotation></m:semantics></m:math>B</emphasis> notation or otherwise, and they do not “imply” an uncertainty using sig figs or otherwise. We are always uncertain about the true value, but we aren’t writing down the true value, so that’s not a concern.</para>
+      <para id="import-auto-idm316159360">Some people say there must be some uncertainty “associated” with the number you write down, and of course there is, indirectly, in the sense that the indicated value is “associated” with some range of true values. We are always uncertain about the true value, but that does not mean we are uncertain about the indicated value. These things are “associated” ... but they are not the same thing.</para>
+      <para id="import-auto-idm1327425248">In a well-designed experiment, things like readability and quantization error usually do not make a large contribution to the overall uncertainty anyway. Please do not confuse such things with “the” uncertainty. </para>
+      <para id="import-auto-idm1319966672">It is usually a good practice to keep all the original data. When reading an instrument, read it as precisely as the instrument permits, and write down the reading “as is” ... without any conversions, any roundoff, or anything else. </para>
+    </section>
+    <section id="import-auto-idm1150799568">
+      <title>Why We’re Not Using Significant Figures</title>
+      <para id="import-auto-idm1293992176">No matter what you are trying to do, significant figures are the wrong way to do it.</para>
+      <para id="import-auto-idm1118623760">When writing, do not use the number of digits to imply anything about the uncertainty. If you want to describe a distribution, describe it explicitly, perhaps using expressions such as 1.234<m:math display="inline"><m:semantics><m:mi>±</m:mi><m:annotation encoding="StarMath 5.0">±</m:annotation></m:semantics></m:math>0.055.</para>
+      <para id="import-auto-idm1093523600">When reading, do not assume the number of digits tells you anything about the overall uncertainty, accuracy, precision, tolerance, or anything else, unless you are absolutely sure that’s what the writer intended ... and even then, beware that the meaning is very unclear.</para>
+	  
+	  <para id="hemingway">People who care about their data don’t use sig figs. </para>
+      
+      <para id="import-auto-idm1150903056">Significant-digit dogma destroys your data and messes up your thinking in many ways, including:</para>
+      <list id="import-auto-idm812566720" list-type="bulleted">
+        <item>Given data that can be described by an expression such as <emphasis effect="italics">A<m:math display="inline"><m:semantics><m:mi>±</m:mi><m:annotation encoding="StarMath 5.0">±</m:annotation></m:semantics></m:math>B</emphasis>, such as 1.234<m:math display="inline"><m:semantics><m:mi>±</m:mi><m:annotation encoding="StarMath 5.0">±</m:annotation></m:semantics></m:math>0.055, converting it to sig figs gives you an excessively crude and erratic representation of the uncertainty, <emphasis effect="italics">B</emphasis>. </item>
+        <item>Converting to sig figs can cause excessive roundoff error in the nominal value, <emphasis effect="italics">A</emphasis>. This is a big problem.</item>
+        <item>Sig figs cause people to misunderstand the distinction between roundoff error and uncertainty. </item>
+        <item>Sig figs cause people to misunderstand the distinction between uncertainty and significance. Sig figs cause people to misunderstand the distinction between the <emphasis effect="italics">indicated value</emphasis> and the corresponding range of <emphasis effect="italics">true values</emphasis>.</item>
+        <item>Sig figs cause people to misunderstand the distinction between distributions and numbers. Distributions have width, whereas numbers don’t. Uncertainty is necessarily associated with some distribution, not with any particular point that might have been drawn from the distribution. </item>
+        <item>As a consequence, sig figs make people hesitate to write down numbers. They think they need to know the amount of supposedly “associated” uncertainty before they can write the number, when in fact they don’t. Very commonly, there simply isn’t any “associated” uncertainty anyway.</item>
+        <item>Sig figs weaken people’s understanding of the axioms of the decimal numeral system.</item>
+        <item>Sig figs provide no guidance as to the appropriate decimal representation for repeating decimals such as 80 ÷ 81, or irrational numbers such as √2 or π.</item>
+      </list>
+    </section>
+    <exercise id="inote64" type="check-understanding"><label/><title><media id="inote64i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote64p"><para id="inote64pp">For homework problems online, however, answers will be judged as correct if they are within <emphasis effect="italics"><emphasis>two percent</emphasis></emphasis> of the correct value, so my suggestion is to just put in plenty of digits. You may get a message that says something about incorrect number of significant figures if you do this.. However, don’t worry about it, the problem has been graded correctly. Mastering physics is just telling you that you did your significant figures wrong. However, since I don’t care about significant figures, it’s not really a big deal; you will get full credit either way. </para>
+	<para id="labs">In regards to how to present data in the labs, section 1.4 has all the information on how people present data, and so you should follow these guidelines for the labs as well..</para></problem></exercise>
+	
+<section id="fs-id1448204" class="section-summary">
+    <title>Summary</title>
+    <list id="fs-id1415321">
+	<item>Use many enough digits to avoid unintended loss of information.</item>
+	<item>Use few enough digits to be reasonably convenient.</item>
+	<item>Avoid using significant figures</item>
+</list></section>
+</content>
+
+</document>
