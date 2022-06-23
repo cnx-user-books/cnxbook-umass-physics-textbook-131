@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Normal Force</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64410</md:content-id>
+  <md:title>Normal Force</md:title>
+  <md:abstract/>
+  <md:uuid>e2e0ae37-e1bd-4a65-83af-3a1ae5b608de</md:uuid>
+</metadata>
+
+<content>
+
+<exercise id="inotei" type="check-understanding"><label/><title><media id="inoteii" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inoteip"><para id="inoteipp"><list id="quiz">
+			<title><emphasis>Your Quiz will Cover</emphasis></title>
+			<item>Defining normal force in your own terms</item>
+			<item>Identifying that normal force is a constraint force, i.e. has no formula</item>
+		</list>
+		This section is also available as a video at <link url="https://www.youtube.com/watch?v=xNZYD3UhT48">https://www.youtube.com/watch?v=xNZYD3UhT48</link>.</para></problem></exercise>
+
+
+    <para id="import-auto-idm747102912">The goal of this section is to introduce you to some of the basic properties of the normal force. So, what is the normal force? The normal force is the force that keeps objects from passing through each other. A common example is that of a book sitting on a table. The force of gravity tries to pull the book down through the table; clearly, the book does not go through the table, and so we are forced to conclude that there must be some type of force from the table on the book pushing upwards to balance this. We call this the <emphasis effect="bold">normal force</emphasis>. In general, a normal force can be thought of as any time one object pushes on another. In the example of the book on the table, the table is pushing on the book upward, keeping it from falling through. </para>
+    <para id="import-auto-idm721937216"/>
+	
+	 <figure id="bot1"><media id="bot2" alt="A book on the table. The normal force from the table is keeping the book from falling through.">
+          <image mime-type="image/jpg" src="../../media/BookonDesk.jpg" width="375"/>
+        </media><caption>A book sitting on top of a table. The normal force from the table on the book balances the force of gravity from the Earth on the book, preventing the book from falling through the table.</caption></figure><para id="import-auto-idm713519104">Another example with an active agent is a person pushing on a box. What is the force on the box? It’s a normal force from the hand on the box at the molecular level. The normal force arises from the electrons in one surface repelling the electrons in the other surface, but we overlook this microscopic level detail and just call the net effect the normal force. </para>
+    <para id="import-auto-idm745787840">It’s worth taking a few minutes to talk about the connections between the normal force and a scale. The question essentially is, what do scales actually read? Well, you might think that a scale just reads the amount of weight put on it. In the picture, a 500-gram weight is placed on a scale, and the scale reads 500 grams. However, that’s not all scales can measure. When the scale is pushed down on, you can see that the number goes up. So, what does this scale actually measure? It measures the amount of force being applied to the scale.  In essence, this scale reads the normal force. </para>
+	
+	<figure id="bot3"><media id="bot4" alt="A scale with a 500 gram weight, and the scale being pushed down.">
+          <image mime-type="image/jpg" src="../../media/NormalForce.jpg" width="375"/>
+        </media><caption>A 500g weight resting on top of a scale. The scale reads the force exerted on it, which is the force of the weight and the force exerted by the finger.</caption></figure><para id="import-auto-idm666636704"> in summary, scales measure the force with which you press on them. They measure the force with which one object, my finger and this weight, push on another the platform of the scale. Scales measure the normal force. This is an important fact to remember as we will be using a variant of a scale known as a force plate in class. </para>
+    <para id="import-auto-idm743975472">So, let’s summarize the characteristics of the normal force. The normal force is a contact force. The two objects must be in contact for the normal force to be present. The normal force is also a constraint force. This means that there’s no formula for the magnitude of the normal force; it takes on whatever value is needed to keep Newton’s second law true. It’s also important to remember that the normal force is always, well, normal. Normal means perpendicular in mathematic-ese, and the normal force is always perpendicular to the surface. Finally, it’s important to remember that scales measure the normal force. </para>
+  </content>
+</document>

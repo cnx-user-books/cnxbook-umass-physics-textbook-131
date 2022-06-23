@@ -1,0 +1,470 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0">
+  <title>Elasticity: Stress and Strain</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64351</md:content-id>
+  <md:title>Elasticity: Stress and Strain</md:title>
+  <md:abstract><list>
+<item>State Hooke’s law.</item>
+<item>Explain Hooke’s law using graphical representation between deformation and applied force.</item>
+<item>Discuss the three types of deformations such as changes in length, sideways shear and changes in volume.</item>
+<item>Describe with examples the young’s modulus, shear modulus and bulk modulus.</item>
+<item>Determine the change in length given mass, length and radius.</item>
+</list></md:abstract>
+  <md:uuid>8464f511-9753-48bd-8d77-179d0e635308</md:uuid>
+</metadata>
+
+<content>
+
+<para id="import-auto-id1165298928075">We now move from consideration of forces that affect the motion of an object (such as friction and drag) to those that affect an object’s shape. If a bulldozer pushes a car into a wall, the car will not move but it will noticeably change shape. A change in shape due to the application of a force is a <term>deformation</term>. Even very small forces are known to cause some deformation. For small deformations, two important characteristics are observed. First, the object returns to its original shape when the force is removed—that is, the deformation is elastic for small deformations. Second, the size of the deformation is proportional to the force—that is, for small deformations, Hooke’s law is obeyed. In equation form, <term>Hooke’s law</term> is given by      </para><equation id="eip-940"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">k</m:mi><m:mn>Δ</m:mn><m:mi>L</m:mi></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F=kΔL} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1165296525939">where <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> is the amount of deformation (the change in length, for example) produced by the force <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math><emphasis effect="italics"/>, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>k</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation></m:semantics></m:math> is a proportionality constant that depends on the shape and composition of the object and the direction of the force. Note that this force is a function of the deformation <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> —it is not constant as a kinetic friction force is. Rearranging this to</para><equation id="eip-72"><m:math>
+          <m:semantics>
+            <m:mrow>
+              
+                <m:mrow>
+                  <m:mrow><m:mn>Δ</m:mn>
+                    <m:mi fontstyle="italic">L</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mi>F</m:mi>
+                      <m:mi>k</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ΔL= {  {F}  over  {k} } } {}</m:annotation>
+          </m:semantics>
+        </m:math> 
+      </equation><para id="import-auto-id1165298765826">makes it clear that the deformation is proportional to the applied force. <link target-id="import-auto-id1165298678464"/> shows the Hooke’s law relationship between the extension <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> of a spring or of a human bone. For metals or springs, the straight line region in which Hooke’s law pertains is much larger. Bones are brittle and the elastic region is small and the fracture abrupt. Eventually a large enough stress to the material will cause it to break or fracture. <term>Tensile strength</term> is the breaking stress that will cause permanent deformation or fracture of a material.</para><note id="fs-id1165298979850"><label/>
+      <title>Hooke’s Law</title>
+      <equation id="eip-319"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mrow>
+                <m:mi>F</m:mi>
+                <m:mo stretchy="false">=</m:mo>
+                <m:mi fontstyle="italic">kΔL</m:mi>
+              </m:mrow>
+            </m:mrow><m:mo>,</m:mo>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{F=kΔL} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </equation><para id="import-auto-id1165298539788">where <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> is the amount of deformation (the change in length, for example) produced by the force <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math><emphasis effect="italics"/>, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>k</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation></m:semantics></m:math> is a proportionality constant that depends on the shape and composition of the object and the direction of the force.</para><equation id="eip-516"><m:math>
+          <m:semantics>
+            <m:mrow>
+              
+                <m:mrow>
+                  <m:mrow><m:mn>Δ</m:mn>
+                    <m:mi fontstyle="italic">L</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mi>F</m:mi>
+                      <m:mi>k</m:mi>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ΔL= {  {F}  over  {k} } } {}</m:annotation>
+          </m:semantics>
+        </m:math> 
+      </equation></note>
+      
+      <figure id="import-auto-id1165298678464"><media id="import-auto-id1165298555486" alt="Line graph of change in length versus applied force. The line has a constant positive slope from the origin in the region where Hooke’s law is obeyed. The slope then decreases, with a lower, still positive slope until the end of the elastic region. The slope then increases dramatically in the region of permanent deformation until fracturing occurs.">
+          <image mime-type="image/jpg" src="../../media/Figure_06_03_01a.jpg" width="225"/>
+        </media>
+        
+      <caption>A graph of deformation <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> versus applied force <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math>. The straight segment is the linear region where Hooke’s law is obeyed. The slope of the straight region is <m:math><m:semantics><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>k</m:mi></m:mfrac></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {k} } } {}</m:annotation></m:semantics></m:math>. For larger forces, the graph is curved but the deformation is still elastic— <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> will return to zero if the force is removed. Still greater forces permanently deform the object until it finally fractures. The shape of the curve near fracture depends on several factors, including how the force <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> is applied. Note that in this graph the slope increases just before fracture, indicating that a small increase in <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> is producing a large increase in <m:math><m:semantics><m:mrow><m:mrow><m:mi>L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math> near the fracture.</caption></figure><para id="import-auto-id1165296220522">The proportionality constant <m:math><m:semantics><m:mrow><m:mrow><m:mi>k</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation></m:semantics></m:math> depends upon a number of factors for the material. For example, a guitar string made of nylon stretches when it is tightened, and the elongation <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> is proportional to the force applied (at least for small deformations). Thicker nylon strings and ones made of steel stretch less for the same applied force, implying they have a larger <m:math><m:semantics><m:mrow><m:mrow><m:mi>k</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation></m:semantics></m:math> (see <link target-id="import-auto-id1165296232089"/>). Finally, all three strings return to their normal lengths when the force is removed, provided the deformation is small. Most materials will behave in this manner if the deformation is less than about 0.1% or about 1 part in <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math><sup/>.</para><figure id="import-auto-id1165296232089"><media id="import-auto-id1165296306833" alt="Diagram of weight w attached to each of three guitar strings of initial length L zero hanging vertically from a ceiling. The weight pulls down on the strings with force w. The ceiling pulls up on the strings with force w. The first string of thin nylon has a deformation of delta L due to the force of the weight pulling down. The middle string of thicker nylon has a smaller deformation. The third string of thin steel has the smallest deformation.">
+          <image mime-type="image/jpg" src="../../media/Figure_06_03_02a.jpg" width="175"/>
+        </media>
+        
+      <caption>The same force, in this case a weight (<m:math><m:semantics><m:mrow><m:mrow><m:mi>w</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{w} {}</m:annotation></m:semantics></m:math>), applied to three different guitar strings of identical length produces the three different deformations shown as shaded segments. The string on the left is thin nylon, the one in the middle is thicker nylon, and the one on the right is steel.</caption></figure><note id="fs-id1165298669085"><label/>
+      <title>Stretch Yourself a Little</title>
+      <para id="import-auto-id1165298704565">How would you go about measuring the proportionality constant <m:math><m:semantics><m:mrow><m:mrow><m:mi>k</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation></m:semantics></m:math> of a rubber band? If a rubber band stretched 3 cm when a 100-g mass was attached to it, then how much would it stretch if two similar rubber bands were attached to the same mass—even if put together in parallel or alternatively if tied together in series?</para>
+      </note>
+      <section id="fs-id1165298595602" class="section-summary"><title>Section Summary</title><list id="fs-id1165296391796"><item id="import-auto-id1165298476009">Hooke’s law is given by
+      <equation id="eip-149"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mi>k</m:mi><m:mtext>Δ</m:mtext><m:mi>L</m:mi></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F=kΔL} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1165296333496">where <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> is the amount of deformation (the change in length), <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> is the applied force, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>k</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k} {}</m:annotation></m:semantics></m:math> is a proportionality constant that depends on the shape and composition of the object and the direction of the force. The relationship between the deformation and the applied force can also be written as</para>
+      <equation id="eip-556"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>Y</m:mi></m:mfrac></m:mrow><m:mfrac><m:mi>F</m:mi><m:mi>A</m:mi></m:mfrac><m:msub><m:mi>L</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL= {  {1}  over  {Y} }  {  {F}  over  {A} } L rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1165298686192">where <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>Y</m:mi></m:mrow><m:mspace width="0.25em"/><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Y} {}</m:annotation></m:semantics></m:math></emphasis><emphasis effect="italics"/> is <emphasis effect="italics">Young’s modulus</emphasis>, which depends on the substance, <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>A</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A} {}</m:annotation></m:semantics></m:math></emphasis> is the cross-sectional area, and <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>L</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math> is the original length.</para>
+        </item>
+      <item id="import-auto-id1165298686194">The ratio of force to area, <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mfrac><m:mi>F</m:mi><m:mi>A</m:mi></m:mfrac></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {F}  over  {A} } } {}</m:annotation></m:semantics></m:math></emphasis>, is defined as <emphasis effect="italics">stress</emphasis>, measured in N/m<sup>2</sup>.</item>
+      <item id="import-auto-id1165298726978">The ratio of the change in length to length, <m:math><m:semantics><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:msub><m:mi>L</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mfrac></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ΔL}  over  {L rSub { size 8{0} } } } } {}</m:annotation></m:semantics></m:math>, is defined as <emphasis effect="italics">strain</emphasis> (a unitless quantity). In other words,
+      <equation id="eip-98"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>stress</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>Y</m:mi><m:mo stretchy="false">×</m:mo><m:mtext>strain</m:mtext></m:mrow><m:mo>.</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"stress"=Y times "strain"} {}</m:annotation></m:semantics></m:math></equation></item>
+        <item id="import-auto-id1165298586473">The expression for shear deformation is
+      <equation id="eip-19"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">x</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>S</m:mi></m:mfrac></m:mrow><m:mfrac><m:mi>F</m:mi><m:mi>A</m:mi></m:mfrac><m:msub><m:mi>L</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δx= {  {1}  over  {S} }  {  {F}  over  {A} } L rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1165298779146">where <m:math>
+ <m:semantics>
+   <m:mi>S</m:mi>
+ </m:semantics>
+</m:math> is the shear modulus and <m:math>
+ <m:semantics>
+   <m:mi>F</m:mi>
+ </m:semantics>
+</m:math> is the force applied perpendicular to <m:math>
+ <m:semantics>
+  <m:msub>
+   <m:mi>L</m:mi>
+   <m:mtext>0</m:mtext>
+  </m:msub>
+ </m:semantics>
+</m:math> and parallel to the cross-sectional area <m:math>
+ <m:semantics>
+   <m:mi>A</m:mi>
+ </m:semantics>
+</m:math>.</para></item>
+        <item id="import-auto-id1165298548492">The relationship of the change in volume to other physical quantities is given by
+      <equation id="eip-492"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">V</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>B</m:mi></m:mfrac></m:mrow><m:mfrac><m:mi>F</m:mi><m:mi>A</m:mi></m:mfrac><m:msub><m:mi>V</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔV= {  {1}  over  {B} }  {  {F}  over  {A} } V rSub { size 8{0} } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1165298931793">where <m:math>
+ <m:semantics>
+   <m:mi>B</m:mi>
+ </m:semantics>
+</m:math> is the bulk modulus, <m:math>
+ <m:semantics>
+  <m:msub>
+   <m:mi>V</m:mi>
+   <m:mtext>0</m:mtext>
+  </m:msub>
+ </m:semantics>
+</m:math> is the original volume, and <m:math><m:semantics><m:mrow><m:mrow><m:mfrac><m:mi>F</m:mi><m:mi>A</m:mi></m:mfrac></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {F}  over  {A} } } {}</m:annotation></m:semantics></m:math> is the force per unit area applied uniformly inward on all surfaces.</para></item>
+      </list></section><section id="fs-id1165298807240" class="conceptual-questions" type="conceptual-questions">
+      <title>Conceptual Questions</title>
+      <exercise id="fs-id1165298797418" type="conceptual-questions"><problem id="fs-id1165298797419">
+      <para id="import-auto-id1165298783801">The elastic properties of the arteries are essential for blood flow. Explain the importance of this in terms of the characteristics of the flow of blood (pulsating or continuous).</para>
+      </problem></exercise>
+      <exercise id="fs-id1165298867810" type="conceptual-questions"><problem id="fs-id1165298867811">
+      <para id="import-auto-id1165298555604">What are you feeling when you feel your pulse? Measure your pulse rate for 10 s and for 1 min. Is there a factor of 6 difference?</para>
+      </problem></exercise>
+      <exercise id="fs-id1165296252981" type="conceptual-questions"><problem id="fs-id1165298517998">
+      <para id="import-auto-id1165298727446">Examine different types of shoes, including sports shoes and thongs. In terms of physics, why are the bottom surfaces designed as they are? What differences will dry and wet conditions make for these surfaces?</para>
+      </problem></exercise>
+      <exercise id="fs-id1165298840083" type="conceptual-questions"><problem id="fs-id1165298840084">
+      <para id="import-auto-id1165298770860">Would you expect your height to be different depending upon the time of day? Why or why not?</para>
+      </problem></exercise>
+      <exercise id="fs-id1165298650751" type="conceptual-questions"><problem id="fs-id1165298619439">
+      <para id="import-auto-id1165298776145" fo:font-weight="normal">Why can a squirrel jump from a tree branch to the ground and run away undamaged, while a human could break a bone in such a fall?</para>
+      </problem></exercise>
+      <exercise id="fs-id1165298550516" type="conceptual-questions"><problem id="fs-id1165298550517">
+      <para id="import-auto-id1165298597904" fo:font-weight="normal">Explain why pregnant women often suffer from back strain late in their pregnancy.</para>
+      </problem></exercise>
+      <exercise id="fs-id1165298545438" type="conceptual-questions"><problem id="fs-id1165298545440">
+      <para id="import-auto-id1165298453194">An old carpenter’s trick to keep nails from bending when they are pounded into hard materials is to grip the center of the nail firmly with pliers. Why does this help?</para>
+      </problem></exercise>
+      <exercise id="fs-id1165298771893" type="conceptual-questions"><problem id="fs-id1165298771894">
+      <para id="import-auto-id1165296268391">When a glass bottle full of vinegar warms up, both the vinegar and the glass expand, but vinegar expands significantly more with temperature than glass. The bottle will break if it was filled to its tightly capped lid. Explain why, and also explain how a pocket of air above the vinegar would prevent the break. (This is the function of the air above liquids in glass containers.)</para>
+      </problem></exercise>
+      </section>
+      <section id="fs-id1165298820012" type="problems-exercises" class="problems-exercises">
+          <title>Problems &amp; Exercises</title>
+      <exercise id="fs-id1165298795593" type="problem-exercises"><problem id="fs-id1165298795594">
+      <para id="import-auto-id1165298766000" fo:font-weight="normal">During a circus act, one performer swings upside down hanging from a trapeze holding another, also upside-down, performer by the legs. If the upward force on the lower performer is three times her weight, how much do the bones (the femurs) in her upper legs stretch? You may assume each is equivalent to a uniform rod 35.0 cm long and 1.80 cm in radius. Her mass is 60.0 kg.</para>
+      </problem>
+          <solution id="fs-id1165298841662">
+      <equation id="eip-id1565399"><m:math>
+          <m:semantics>
+            <m:mrow>
+              
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mtext>90</m:mtext>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:msup>
+                        <m:mtext>10</m:mtext>
+                        
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        
+                      </m:msup>
+                    </m:mrow><m:mspace width="0.25em"/>
+                    <m:mtext>cm</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{1 "." "90" times "10" rSup { size 8{ - 3} } "cm"} {}</m:annotation>
+          </m:semantics>
+        </m:math> 
+      </equation></solution>
+          </exercise><exercise id="fs-id1165298595705" type="problem-exercises"><problem id="fs-id1165298595706">
+      <para id="import-auto-id1165298992604" fo:font-weight="normal">During a wrestling match, a 150 kg wrestler briefly stands on one hand during a maneuver designed to perplex his already moribund adversary. By how much does the upper arm bone shorten in length? The bone can be represented by a uniform rod 38.0 cm in length and 2.10 cm in radius.</para>
+      </problem></exercise>
+      <exercise id="fs-id1165298778825" type="problem-exercises"><problem id="fs-id1165298778826">
+      <para id="import-auto-id1165296307050">(a) The “lead” in pencils is a graphite composition with a Young’s modulus of about <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  
+                  <m:mrow>
+                    
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow><m:mspace width="0.25em"/>
+                  <m:mrow>
+                    <m:mtext>N</m:mtext>
+                    <m:mo stretchy="false">/</m:mo>
+                    <m:msup>
+                      <m:mtext>m</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{5 "." "00" times "10" rSup { size 8{7} } N/m rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    . Calculate the change in length of the lead in an automatic pencil if you tap it straight into the pencil with a force of 4.0 N. The lead is 0.50 mm in diameter and 60 mm long. (b) Is the answer reasonable? That is, does it seem to be consistent with what you have observed when using pencils? </para></problem>
+          <solution id="fs-id1165296220516">
+      <para id="import-auto-id1165298622237" fo:font-weight="normal">(a)1 mm <newline/>(b) This does seem reasonable, since the lead does seem to shrink a little when you push on it.</para></solution></exercise>
+      <exercise id="fs-id1165298941254" type="problem-exercises"><problem id="fs-id1165298941255">
+      <para id="import-auto-id1165298476018" fo:font-weight="normal">TV broadcast antennas are the tallest artificial structures on Earth. In 1987, a 72.0-kg physicist placed himself and 400 kg of equipment at the top of one 610-m high antenna to perform gravity experiments. By how much was the antenna compressed, if we consider it to be equivalent to a steel cylinder 0.150 m in radius?</para></problem></exercise>
+      <exercise id="fs-id1165298598606" type="problem-exercises"><problem id="fs-id1165298598607">
+      <para id="import-auto-id1165296376441">(a) By how much does a 65.0-kg mountain climber stretch her 0.800-cm diameter nylon rope when she hangs 35.0 m below a rock outcropping? (b) Does the answer seem to be consistent with what you have observed for nylon ropes? Would it make sense if the rope were actually a bungee cord? </para>
+      </problem><solution id="fs-id1165298944074">
+      <para id="import-auto-id1165298547983" fo:font-weight="normal">(a)9 cm
+<newline/> (b)This seems reasonable for nylon climbing rope, since it is not supposed to stretch that much.</para></solution></exercise>
+      
+      <exercise id="fs-id1165298937277" type="problem-exercises"><problem id="fs-id1165298937278">
+      <para id="import-auto-id1165298946498">A 20.0-m tall hollow aluminum flagpole is equivalent in stiffness to a solid cylinder 4.00 cm in diameter. A strong wind bends the pole much as a horizontal force of 900 N exerted at the top would. How far to the side does the top of the pole flex?</para></problem></exercise>
+      <exercise id="fs-id1165296239036" type="problem-exercises"><problem id="fs-id1165296239037">
+      <para id="import-auto-id1165296317212">As an oil well is drilled, each new section of drill pipe supports its own weight and that of the pipe and drill bit beneath it. Calculate the stretch in a new 6.00 m length of steel pipe that supports 3.00 km of pipe having a mass of 20.0 kg/m and a 100-kg drill bit. The pipe is equivalent in stiffness to a solid cylinder 5.00 cm in diameter. </para></problem>
+          <solution id="fs-id1165298608719">
+      <para id="import-auto-id1165298778980" fo:font-weight="normal">8.59 mm</para>
+      </solution></exercise>
+      <exercise id="fs-id1165298786214" type="problem-exercises"><problem id="fs-id1165298786215">
+      <para id="import-auto-id1165298744049" fo:font-weight="normal">Calculate the force a piano tuner applies to stretch a steel piano wire 8.00 mm, if the wire is originally 0.850 mm in diameter and 1.35 m long.</para>
+      </problem></exercise>
+      <exercise id="fs-id1165298982360" type="problem-exercises"><problem id="fs-id1165298982361">
+      <para id="import-auto-id1165296228592">A vertebra is subjected to a shearing force of 500 N. Find the shear deformation, taking the vertebra to be a cylinder 3.00 cm high and 4.00 cm in diameter. </para>
+      </problem>
+          <solution id="fs-id1165298858039">
+      <equation id="eip-id1373472"><m:math>
+          <m:semantics>
+            <m:mrow>
+              
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>1</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mtext>49</m:mtext>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:msup>
+                        <m:mtext>10</m:mtext>
+                        
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mn>7</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        
+                      </m:msup>
+                    </m:mrow><m:mspace width="0.25em"/>
+                    <m:mtext>m</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{1 "." "49" times "10" rSup { size 8{ - 7} } m} {}</m:annotation>
+          </m:semantics>
+        </m:math> 
+      </equation></solution>
+      </exercise><exercise id="fs-id1165298797862" type="problem-exercises"><problem id="fs-id1165298797863">
+      <para id="import-auto-id1165298547950">A disk between vertebrae in the spine is subjected to a shearing force of 600 N. Find its shear deformation, taking it to have the shear modulus of  <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  
+                  <m:mrow>
+                    
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mn>9</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mrow><m:mspace width="0.25em"/>
+                    <m:mtext>N</m:mtext>
+                    <m:mo stretchy="false">/</m:mo>
+                    <m:msup>
+                      <m:mtext>m</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{5 "." "00" times "10" rSup { size 8{7} } N/m rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    . The disk is equivalent to a solid cylinder 0.700 cm high and 4.00 cm in diameter.</para></problem></exercise>
+      <exercise id="fs-id1165296255735" type="problem-exercises"><problem id="fs-id1165296255736">
+      <para id="import-auto-id1165298708711">When using a pencil eraser, you exert a vertical force of 6.00 N at a distance of 2.00 cm from the hardwood-eraser joint. The pencil is 6.00 mm in diameter and is held at an angle of <m:math>
+ <m:semantics>
+   <m:mtext>20.0º</m:mtext>
+ </m:semantics>
+</m:math> to the horizontal. (a) By how much does the wood flex perpendicular to its length? (b) How much is it compressed lengthwise? </para></problem>
+          <solution id="fs-id1165298654339">
+      <para id="import-auto-id1165298597988">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>99</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mn>m</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "99" times "10" rSup { size 8{ - 7} } m} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id1165299001845">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>67</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mn>m</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "." "67" times "10" rSup { size 8{ - 8} } m} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="fs-id1165298783085" type="problem-exercises"><problem id="fs-id1165298783086">
+      <para id="import-auto-id1165296580296">To consider the effect of wires hung on poles, we take data from <link document="m42132" target-id="fs-id1348788"/>, in which tensions in wires supporting a traffic light were calculated. The left wire made an angle <m:math>
+ <m:semantics>
+   <m:mtext>30.0º</m:mtext>
+ </m:semantics>
+</m:math> below the horizontal with the top of its pole and carried a tension of 108 N. The 12.0 m tall hollow aluminum pole is equivalent in stiffness to a 4.50 cm diameter solid cylinder. (a) How far is it bent to the side? (b) By how much is it compressed?</para></problem></exercise>
+      <exercise id="fs-id1165298713046" type="problem-exercises"><problem id="fs-id1165298713047">
+      <para id="import-auto-id1165298597595">A farmer making grape juice fills a glass bottle to the brim and caps it tightly. The juice expands more than the glass when it warms up, in such a way that the volume increases by 0.2% (that is, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">V</m:mi><m:mo stretchy="false">/</m:mo><m:msub><m:mi>V</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔV/V rSub { size 8{0} } =2 times "10" rSup { size 8{ - 3} } } {}</m:annotation></m:semantics></m:math>) relative to the space available. Calculate the magnitude of the normal force exerted by the juice per square centimeter if its bulk modulus is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>9</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:msup><m:mtext>N/m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." 8 times "10" rSup { size 8{9} } `"N/m" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, assuming the bottle does not break. In view of your answer, do you think the bottle will survive? </para></problem>
+          <solution id="fs-id1165298481228">
+      <para id="import-auto-id1165298998551"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:msup><m:mtext>N/m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 times "10" rSup { size 8{6} } `"N/m" rSup { size 8{2} }  "." } {}</m:annotation></m:semantics></m:math>. This is about 36 atm, greater than a typical jar can withstand.</para></solution>
+      </exercise>
+      <exercise id="fs-id1165298913397" type="problem-exercises"><problem id="fs-id1165298913398">
+      <para id="import-auto-id1165296218446">(a) When water freezes, its volume increases by 9.05% (that is, <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow><m:mn>Δ</m:mn>
+                      <m:mi fontstyle="italic">V</m:mi>
+                      <m:mo stretchy="false">/</m:mo>
+                      <m:msub>
+                        <m:mi>V</m:mi>
+                        
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        
+                      </m:msub>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>9</m:mn>
+                  </m:mrow>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>05</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ΔV/V rSub { size 8{0} } =9 "." "05" times "10" rSup { size 8{ - 2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    ). What force per unit area is water capable of exerting on a container when it freezes? (It is acceptable to use the bulk modulus of water in this problem.) (b) Is it surprising that such forces can fracture engine blocks, boulders, and the like?</para></problem></exercise>
+      <exercise id="fs-id1165298740744" type="problem-exercises"><problem id="fs-id1165298520715">
+      <para id="import-auto-id1165298995984">This problem returns to the tightrope walker studied in <link document="m42075" target-id="fs-id986136"/>, who created a tension of <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>94</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow><m:mspace width="0.25em"/><m:mn>N</m:mn>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3 "." "94" times "10" rSup { size 8{3} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+     in a wire making an angle <m:math>
+ <m:semantics>
+   <m:mtext>5.0º</m:mtext>
+ </m:semantics>
+</m:math> below the horizontal with each supporting pole. Calculate how much this tension stretches the steel wire if it was originally 15 m long and 0.50 cm in diameter. </para></problem><solution id="fs-id1165298866753">
+      <para id="import-auto-id1165298919311" fo:font-weight="normal">1.4 cm</para></solution>
+      </exercise>
+      <exercise id="fs-id1165296233210" type="problem-exercises"><problem id="fs-id1165298620362">
+      <para id="import-auto-id1165296232572">The pole in <link target-id="import-auto-id1165296309614"/> is at a <m:math>
+ <m:semantics>
+   <m:mtext>90.0º</m:mtext>
+ </m:semantics>
+</m:math> bend in a power line and is therefore subjected to more shear force than poles in straight parts of the line. The tension in each line is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mn>N</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "00" times "10" rSup { size 8{4} } N} {}</m:annotation></m:semantics></m:math>, at the angles shown. The pole is 15.0 m tall, has an 18.0 cm diameter, and can be considered to have half the stiffness of hardwood. (a) Calculate the compression of the pole. (b) Find how much it bends and in what direction. (c) Find the tension in a guy wire used to keep the pole straight if it is attached to the top of the pole at an angle of <m:math>
+ <m:semantics>
+   <m:mtext>30.0º</m:mtext>
+ </m:semantics>
+</m:math> with the vertical. (Clearly, the guy wire must be in the opposite direction of the bend.)</para><figure id="import-auto-id1165296309614"><media id="import-auto-id1165298916431" alt="A telephone pole is located at a ninety degree bend in a power line. Each part of the line is at an angle of eighty degrees with the pole and has a tension labeled T. A guy wire is attached to the top of the pole at an angle of thirty degrees with the vertical.">
+          <image mime-type="image/jpg" src="../../media/Figure_06_03_10a.jpg" width="185"/>
+        </media>
+        
+<caption>This telephone pole is at a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mtext>º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90"°} {}</m:annotation></m:semantics></m:math> bend in a power line. A guy wire is attached to the top of the pole at an angle of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>30</m:mtext><m:mtext>º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"30"°} {}</m:annotation></m:semantics></m:math> with the vertical.</caption></figure></problem></exercise>
+      
+          </section>
+    </content>
+    <glossary>
+
+      <definition id="import-auto-id1165298828407"><term>deformation</term> <meaning id="fs-id1165298696821">change in shape due to the application of force</meaning></definition>
+<definition id="fs-id1987830"><term>Hooke’s law</term><meaning id="fs-id1987834">proportional relationship between the force <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> on a material and the deformation <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> it causes, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">k</m:mi><m:mn>Δ</m:mn><m:mi>L</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F=kΔL} {}</m:annotation></m:semantics></m:math></meaning>
+</definition>
+      <definition id="import-auto-id1165298828410"><term>tensile strength</term> <meaning id="fs-id1165298787406">the breaking stress that will cause permanent deformation or fraction of a material</meaning></definition>
+      <definition id="import-auto-id1165298696762"><term>stress</term> <meaning id="fs-id1165298600243">ratio of force to area</meaning></definition>
+      <definition id="import-auto-id1165296377254"><term>strain</term> <meaning id="fs-id1165298840132">ratio of change in length to original length</meaning></definition>
+<definition id="fs-id1268428"><term>shear deformation</term><meaning id="fs-id1268431">deformation perpendicular to the original length of an object</meaning></definition>
+      </glossary>
+      
+</document>

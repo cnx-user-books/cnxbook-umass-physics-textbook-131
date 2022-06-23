@@ -1,0 +1,16 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Unit 2 Overview</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68645</md:content-id>
+  <md:title>Unit 2 Overview</md:title>
+  <md:abstract/>
+  <md:uuid>d054ffa8-78d4-4d24-9e6e-742cd1eb3cdb</md:uuid>
+</metadata>
+
+<content>
+    <para id="para1">It may surprise you to know that we have now covered all of the basics of physics that we will need for our first three units: position, velocity, acceleration, forces, and Newton's Laws. Moreover, we have already introduced the major ways that we will represent these ideas: words, graphs, simulations, and equations. In this unit, we will be expanding those ideas to more interesting cases where there is more than one force acting at a time and in more than one direction. The only new fundamental principle in this unit is that the various directions of motion, up/down, left/right, forward/backward are independent of each other; A force in the left/right direction does not change the velocity in the up/down or forward/backward directions. </para>
+	<para id="para2">What will we do in this unit then? In order to understand motion in two directions we need a new mathematical tool: vectors. This will be the basics of the first chapter. The second chapter will introduce all the different kinds of forces. In our everyday experience, we see an almost uncountable multitude of different types of forces: pulls of ropes, pushes of hands, springs, gravity, etc. However, these different kinds of forces can actually be grouped into four simple categories. Moreover, at a fundamental level all these different types of forces are different manifestations of only four different fundamental forces. These categorizations of forces will be the subject of the second chapter. </para>
+	<para id="para3">The goal of your prep is for you to develop a basic familiarity with the mechanics of vectors and these different categorizations of forces. In class, we will explore why vectors work the way they do and get practice applying them to situations. Don't worry, therefore, if you feel you don't fully grasp why you are doing the vector tools you are doing right now. Just get the mechanics, we will explore why and how in class. We will then combine vectors, our representations from unit I, and the different kinds of forces to explore some problems that you hopefully find interesting. </para>
+    </content>
+
+</document>
