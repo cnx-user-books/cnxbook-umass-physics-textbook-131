@@ -1,185 +1,55 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="UMass Physics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12232</md:content-id>
-  <md:title>UMass Physics 131 Unit 1</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>f068bc1d-eb50-4205-9d19-414b917c40c3</md:uuid>
-<md:slug>umass-physics-131-unit-1</md:slug>
-</metadata>
-
+    <md:content-id>col12232</md:content-id>
+    <md:title>UMass Physics 131 Unit 1</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>f068bc1d-eb50-4205-9d19-414b917c40c3</md:uuid>
+    <md:slug>umass-physics-131-unit-1</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m64065"/>
-        
-      
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Introduction: The Nature of Science and Physics</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m64066"/>
-        
-      
-    
-    
-      <col:module document="m64001"/>
-        
-      
-    
-    
-      <col:module document="m64013"/>
-        
-      
-    
-    
-      <col:module document="m64055"/>
-        
-      
-    
-    
-      <col:module document="m64011"/>
-        
-      
-    
-    
-      <col:module document="m64071"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Kinematics</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m64085"/>
-        
-      
-    
-    
-      <col:module document="m64041"/>
-        
-      
-    
-    
-      <col:module document="m64047"/>
-        
-      
-    
-    
-      <col:module document="m64044"/>
-        
-      
-    
-    
-      <col:module document="m64042"/>
-        
-      
-    
-    
-      <col:module document="m64043"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Forces</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m64345"/>
-        
-      
-    
-    
-      <col:module document="m64293"/>
-        
-      
-    
-    
-      <col:module document="m64291"/>
-        
-      
-    
-    
-      <col:module document="m64292"/>
-        
-      
-    
-    
-      <col:module document="m64294"/>
-        
-      
-    
-    
-      <col:module document="m64296"/>
-        
-      
-    
-    
-      <col:module document="m64297"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Simulations</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m64191"/>
-        
-      
-    
-    
-      <col:module document="m64344"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:module document="m64065"/>
+    <col:subcollection>
+      <md:title>Introduction: The Nature of Science and Physics</md:title>
+      <col:content>
+        <col:module document="m64066"/>
+        <col:module document="m64001"/>
+        <col:module document="m64013"/>
+        <col:module document="m64055"/>
+        <col:module document="m64011"/>
+        <col:module document="m64071"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kinematics</md:title>
+      <col:content>
+        <col:module document="m64085"/>
+        <col:module document="m64041"/>
+        <col:module document="m64047"/>
+        <col:module document="m64044"/>
+        <col:module document="m64042"/>
+        <col:module document="m64043"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Forces</md:title>
+      <col:content>
+        <col:module document="m64345"/>
+        <col:module document="m64293"/>
+        <col:module document="m64291"/>
+        <col:module document="m64292"/>
+        <col:module document="m64294"/>
+        <col:module document="m64296"/>
+        <col:module document="m64297"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Simulations</md:title>
+      <col:content>
+        <col:module document="m64191"/>
+        <col:module document="m64344"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
