@@ -125,7 +125,7 @@
           <m:msubsup>
             <m:mmultiscripts>
               <m:mi>C</m:mi>
-              <m:mprescripts/>
+              <m:none/><m:none/><m:mprescripts/>
               <m:mi>n</m:mi>
               <m:mrow/>
             </m:mmultiscripts>
@@ -142,7 +142,7 @@
           <m:msubsup>
             <m:mmultiscripts>
               <m:mi>C</m:mi>
-              <m:mprescripts/>
+              <m:none/><m:none/><m:mprescripts/>
               <m:mrow/>
               <m:mi>n</m:mi>
             </m:mmultiscripts>
